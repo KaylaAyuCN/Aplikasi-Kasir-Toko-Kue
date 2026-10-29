@@ -1,0 +1,6 @@
+{
+  "name": "Dapur Rasa - Kasir Toko Kue & Stok Bahan Baku",
+  "description": "Sistem POS Kasir Toko Kue lengkap dengan manajemen stok bahan baku resep otomatis, struk thermal bluetooth, pembayaran digital QRIS, analitik penjualan real-time, laporan bulanan PDF, dan integrasi marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
